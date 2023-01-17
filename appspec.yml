@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: target/spring-mvc-example.war
-    destination: /opt/tomcat/webapps/
+    destination: /opt/apache-tomcat-9.0.71/webapps/
